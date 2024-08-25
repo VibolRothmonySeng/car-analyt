@@ -17,9 +17,17 @@ Car Analytics is a React-based web application that allows users to filter, anal
 - Dashboard: Users can see detailed car data for each brand, including the total value of cars, presented in various charts.
 
   
-##Screenshot
+## Screenshot
 - HomePage
   ![image](https://github.com/user-attachments/assets/36388a28-1bd7-470d-a60d-e40181054670)
+- Dashboard
+  ![image](https://github.com/user-attachments/assets/0c827c9d-ee21-4f74-b1c4-0c550364ffc2)
+  - Brand Details
+    ![image](https://github.com/user-attachments/assets/178d324f-27f6-4a72-b302-7d0217543249)
+
+- Highlighted
+  ![image](https://github.com/user-attachments/assets/9d7a61fb-d632-4ffa-9218-7f60ba958588)
+
 
 ## Libraries
 - React: The core framework used for building the user interface.
