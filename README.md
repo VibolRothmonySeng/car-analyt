@@ -39,7 +39,7 @@ Car Analytics is a React-based web application that allows users to filter, anal
 - Highlighted Cars Page: Displays cars that users have highlighted. Users can also remove cars from the highlighted list on this page.
 - Dashboard: Provides a detailed view of the total value and cars for each brand. Users can also see an overview of the car data presented in pie charts and stacked bar charts.
 ## Team Members
-- Vibol Rothmony Seng
-- Paveena Chuayaem
+- Vibol Rothmony Seng ID: 6430170
+- Paveena Chuayaem ID: 6430103
 ## License
 This project is licensed under the names Vibol Rothmony Seng and Paveena Chuayaem.
