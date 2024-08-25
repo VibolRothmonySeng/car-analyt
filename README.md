@@ -41,5 +41,5 @@ Car Analytics is a React-based web application that allows users to filter, anal
 ## Team Members
 Vibol Rothmony Seng
 Paveena Chuayaem
-License
+## License
 This project is licensed under the names Vibol Rothmony Seng and Paveena Chuayaem.
