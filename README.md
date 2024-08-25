@@ -15,6 +15,8 @@ Car Analytics is a React-based web application that allows users to filter, anal
 - Highlight Cars: Users can highlight their preferred cars on the homepage, which will then be saved and displayed on the Highlighted Cars page.
 - Car Analysis: Users can view charts that display car data by brand and model, providing a visual representation of the data.
 - Dashboard: Users can see detailed car data for each brand, including the total value of cars, presented in various charts.
+
+  
 ##Screenshot
 - HomePage
   ![image](https://github.com/user-attachments/assets/36388a28-1bd7-470d-a60d-e40181054670)
