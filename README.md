@@ -27,6 +27,7 @@ Car Analytics is a React-based web application that allows users to filter, anal
 
 - Highlighted
   ![image](https://github.com/user-attachments/assets/9d7a61fb-d632-4ffa-9218-7f60ba958588)
+  
 
 
 ## Libraries
