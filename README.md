@@ -3,11 +3,11 @@
 Car Analytics is a React-based web application that allows users to filter, analyze, and find cars to buy, highlight their favorite cars, and visualize car data through various charts. The app provides a comprehensive overview of car data and enables users to interact with the information in a meaningful way.
 
 ## Table of Contents
--Features
--Libraries
--Pages
--Team Members
--License
+- [Feature](#Feature)
+- [Library](#Library)
+- [Pages](#Pages)
+- [Team_Member](#Team_Member)
+- [License](#license)
 
 ## Features
 - Filter by Brand: Users can filter cars by selecting a brand name on the homepage.
